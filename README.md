@@ -1,11 +1,7 @@
-Project name
+Entry name
 
 Description
 
-## Using
+## Text
 
-How to use
-
-## Copyright
-
-This project is available under [The Sol License](https://191512.xyz/license).
+Blah blah blah
