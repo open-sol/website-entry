@@ -5,3 +5,7 @@ Description
 ## Text
 
 Blah blah blah
+
+---
+
+Public domain.
