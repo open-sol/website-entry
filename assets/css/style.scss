@@ -1,0 +1,5 @@
+---
+---
+
+@import "{{ site.theme }}";
+@media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
