@@ -1,15 +1,1 @@
-title: Sol
-author:
-  name: admin
-  email: admin@191512.xyz
-
-description: Website for open-sol
-
-remote_theme: jekyll/minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-minima:
-  skin: solarized
+theme: jekyll-theme-hacker
