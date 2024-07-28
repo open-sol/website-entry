@@ -1,12 +1,12 @@
-# Entry name
+# Entry name #
 
 Description
 
-## Text
+## Text ##
 
 Blah blah blah
 
-***
+##
 
 Public domain.
 
